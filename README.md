@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zerobugteam/zerobugteam-zekkk/main/profile-summary-card-output/ocean_dark/3-stats.svg" width="390" />
+  <img src="https://raw.githubusercontent.com/zerobugteam/zerobugteam/main/profile-summary-card-output/ocean_dark/3-stats.svg" width="390" />
   <img src="https://raw.githubusercontent.com/zerobugteam/zerobugteam/main/profile-summary-card-output/ocean_dark/4-productive-time.svg" width="390" />
 </p>
